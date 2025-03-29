@@ -6,6 +6,7 @@
 
 Sou desenvolvedor fullstack e atualmente trabalho com Java, Spring, PHP e Javascript. Apaixonado por tecnologia logo me vi realizando uma transição de carreira e hoje graduado em Análise e Desenvolvimento de Sistemas. Recentemente estou me aventurando no mundo do Angular e dos Microserviços.
 
+I am a fullstack developer and currently work with Java, Spring, PHP and Javascript. Passionate about technology, I soon found myself making a career transition and today I graduated in Systems Analysis and Development. Recently I am venturing into the world of Angular and Microservices.
 ---
 
 ### 🤖 Tecnologias / Tecnologies
