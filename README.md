@@ -139,7 +139,6 @@ Sou desenvolvedor fullstack e atualmente trabalho com Java, Spring, PHP e Javasc
 <br>
 <br>
 <br>
-<br>
 
 <p align = "left">
 
